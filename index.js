@@ -2,6 +2,7 @@ const app = "I don't do much."
 
 const kittens=["Milo", "Otis", "Garfield"]
 
+<<<<<<< HEAD
  function destructivelyAppendKitten(name) {
    kittens.push("Ralph");
    return kittens;
@@ -41,3 +42,5 @@ const kittens=["Milo", "Otis", "Garfield"]
    const newKittens3=kittens.slice(1,3);
    return newKittens3;
  }
+=======
+>>>>>>> fbe323ead841778fe6ff237ac6c92386fbc6956e
